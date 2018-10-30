@@ -19,36 +19,43 @@
 
 <p align="center">
   <img src="./readme-files/output_2_2.png">
+    <br>
   Taking a sample image.
 </p>
 
 <p align="center">
   <img src="./readme-files/output_6_1.png">
+    <br>
   Grayscaling the image.
 </p>
 
 <p align="center">
   <img src="./readme-files/output_8_0.png">
+    <br>
   Applying Gaussian Blur to smoothen image and remove noise. 
 </p>
 
 <p align="center">
   <img src="./readme-files/output_10_0.png">
+    <br>
   Image after applying Canny Edge Detection Algorithm.
 </p>
 
 <p align="center">
   <img src="./readme-files/output_12_1.png">
+    <br>
   Masking the image to a region of interest as the upper part of image contains Sky and the lane lines are in the center. 
 </p>
 
 <p align="center">
   <img src="./readme-files/output_13_0.png">
+    <br>
   Applying Hough Transform to find line segments and extrapolating them to find two lane lines.  
 </p>
 
 <p align="center">
   <img src="./readme-files/output_14_1.png">
+    <br>
   Finally drawing the lines on the orignal image.  
 </p>
 
